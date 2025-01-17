@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\erene\\OneDrive\\Masa\u00FCst\u00FC\\WA1\\Group_I_Project\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BD89F466-CAFB-46D9-9AA7-98001C2497A5}|Group_I.csproj|c:\\users\\erene\\onedrive\\masa\u00FCst\u00FC\\wa1\\group_i_project\\forms.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{BD89F466-CAFB-46D9-9AA7-98001C2497A5}|Group_I.csproj|solutionrelative:forms.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BD89F466-CAFB-46D9-9AA7-98001C2497A5}|Group_I.csproj|c:\\users\\erene\\onedrive\\masa\u00FCst\u00FC\\wa1\\group_i_project\\reports.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{BD89F466-CAFB-46D9-9AA7-98001C2497A5}|Group_I.csproj|solutionrelative:reports.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD89F466-CAFB-46D9-9AA7-98001C2497A5}|Group_I.csproj|c:\\users\\erene\\onedrive\\masa\u00FCst\u00FC\\wa1\\group_i_project\\employees_by_departments_report.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{BD89F466-CAFB-46D9-9AA7-98001C2497A5}|Group_I.csproj|solutionrelative:employees_by_departments_report.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD89F466-CAFB-46D9-9AA7-98001C2497A5}|Group_I.csproj|C:\\Users\\erene\\OneDrive\\Masa\u00FCst\u00FC\\WA1\\Group_I_Project\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{BD89F466-CAFB-46D9-9AA7-98001C2497A5}|Group_I.csproj|solutionrelative:about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +18,11 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Reports.aspx",
               "DocumentMoniker": "C:\\Users\\erene\\OneDrive\\Masa\u00FCst\u00FC\\WA1\\Group_I_Project\\Reports.aspx",
               "RelativeDocumentMoniker": "Reports.aspx",
@@ -34,33 +30,20 @@
               "RelativeToolTip": "Reports.aspx",
               "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-01-17T03:00:55.182Z",
+              "WhenOpened": "2025-01-17T05:50:18.405Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Employees_By_Departments_Report.aspx",
-              "DocumentMoniker": "C:\\Users\\erene\\OneDrive\\Masa\u00FCst\u00FC\\WA1\\Group_I_Project\\Employees_By_Departments_Report.aspx",
-              "RelativeDocumentMoniker": "Employees_By_Departments_Report.aspx",
-              "ToolTip": "C:\\Users\\erene\\OneDrive\\Masa\u00FCst\u00FC\\WA1\\Group_I_Project\\Employees_By_Departments_Report.aspx",
-              "RelativeToolTip": "Employees_By_Departments_Report.aspx",
+              "DocumentIndex": 0,
+              "Title": "Forms.aspx",
+              "DocumentMoniker": "C:\\Users\\erene\\OneDrive\\Masa\u00FCst\u00FC\\WA1\\Group_I_Project\\Forms.aspx",
+              "RelativeDocumentMoniker": "Forms.aspx",
+              "ToolTip": "C:\\Users\\erene\\OneDrive\\Masa\u00FCst\u00FC\\WA1\\Group_I_Project\\Forms.aspx",
+              "RelativeToolTip": "Forms.aspx",
               "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-01-17T02:33:48.93Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "About.aspx",
-              "DocumentMoniker": "C:\\Users\\erene\\OneDrive\\Masa\u00FCst\u00FC\\WA1\\Group_I_Project\\About.aspx",
-              "RelativeDocumentMoniker": "About.aspx",
-              "ToolTip": "C:\\Users\\erene\\OneDrive\\Masa\u00FCst\u00FC\\WA1\\Group_I_Project\\About.aspx",
-              "RelativeToolTip": "About.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-01-17T02:08:15.326Z",
+              "WhenOpened": "2025-01-17T05:47:54.324Z",
               "EditorCaption": ""
             }
           ]

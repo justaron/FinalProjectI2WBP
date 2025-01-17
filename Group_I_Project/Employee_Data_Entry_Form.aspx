@@ -27,11 +27,6 @@
         .auto-style49 {
             font-size: large;
         }
-        .auto-style58 {
-            width: 107px;
-            height: 31px;
-            font-size: large;
-        }
         .auto-style63 {
             width: 107px;
             height: 22px;
@@ -87,11 +82,6 @@
         .auto-style79 {
             width: 107px;
             height: 32px;
-        }
-        .auto-style80 {
-            width: 107px;
-            height: 32px;
-            font-size: large;
         }
         .auto-style81 {
             width: 158px;
@@ -221,7 +211,6 @@
                                     <asp:TextBox ID="TextBox6" runat="server"></asp:TextBox>
                                     </strong>
                                 </td>
-                                <td class="auto-style76">&nbsp;</td>
                                 <td class="auto-style77">
                                     &nbsp;</td>
                             </tr>
@@ -232,7 +221,6 @@
                                     <asp:TextBox ID="TextBox7" runat="server"></asp:TextBox>
                                     </strong>
                                 </td>
-                                <td class="auto-style64">&nbsp;</td>
                                 <td class="auto-style65">
                                     &nbsp;</td>
                             </tr>
@@ -243,7 +231,6 @@
                                     <asp:TextBox ID="TextBox8" runat="server"></asp:TextBox>
                                     </strong>
                                 </td>
-                                <td class="auto-style72">&nbsp;</td>
                                 <td class="auto-style73">
                                     &nbsp;</td>
                             </tr>
@@ -255,7 +242,6 @@
                                     </asp:DropDownList>
                                     </strong>
                                 </td>
-                                <td class="auto-style58">&nbsp;</td>
                                 <td class="auto-style39">
                                     &nbsp;</td>
                             </tr>
@@ -267,7 +253,6 @@
                                     </asp:DropDownList>
                                     </strong>
                                 </td>
-                                <td class="auto-style80">&nbsp;</td>
                                 <td class="auto-style81">
                                     &nbsp;</td>
                             </tr>

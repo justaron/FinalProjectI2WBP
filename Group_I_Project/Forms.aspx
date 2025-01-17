@@ -88,6 +88,11 @@
                     </tr>
             </table>
         </div>
+        <p>
+            <strong>
+            <asp:Button ID="Button12" runat="server" CssClass="auto-style8" Height="75px" OnClientClick="window.close()" PostBackUrl="~/Default.aspx" Text="Home" Width="200px" />
+            </strong>
+        </p>
     </form>
             </body>
 </html>
