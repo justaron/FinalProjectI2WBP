@@ -28,6 +28,9 @@
         .auto-style11 {
             height: 58px;
         }
+        .auto-style12 {
+            text-align: center;
+        }
     </style>
 </head>
 <body>
@@ -88,7 +91,7 @@
                     </tr>
             </table>
         </div>
-        <p>
+        <p class="auto-style12">
             <strong>
             <asp:Button ID="Button12" runat="server" CssClass="auto-style8" Height="75px" OnClientClick="window.close()" PostBackUrl="~/Default.aspx" Text="Home" Width="200px" />
             </strong>
