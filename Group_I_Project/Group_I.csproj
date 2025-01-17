@@ -100,6 +100,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Employees_By_Departments_Report.aspx" />
     <Content Include="Help.aspx" />
     <Content Include="About.aspx" />
     <Content Include="Contact.aspx" />
@@ -201,6 +202,13 @@
     <Content Include="Site.Mobile.Master" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Employees_By_Departments_Report.aspx.cs">
+      <DependentUpon>Employees_By_Departments_Report.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Employees_By_Departments_Report.aspx.designer.cs">
+      <DependentUpon>Employees_By_Departments_Report.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Help.aspx.cs">
       <DependentUpon>Help.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>

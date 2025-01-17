@@ -84,7 +84,8 @@
                 </tr>
                 <tr>
                     <td class="auto-style9" colspan="2">
-                        &nbsp;</td>
+                        <asp:Button ID="Button6" runat="server" CssClass="auto-style7" Font-Bold="True" Height="85px" PostBackUrl="~/Employees_By_Departments_Report.aspx" Text="Employees By Departments" Width="340px" />
+                    </td>
                 </tr>
             </table>
         </div>
