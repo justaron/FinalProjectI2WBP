@@ -91,9 +91,9 @@
             </table>
         </div>
                             <strong>
-                            <asp:Button ID="Button2" runat="server" CssClass="auto-style23" Height="52px" Text="Save the Form" OnClick="Button2_Click" />
+                            <asp:Button ID="Button2" runat="server" CssClass="auto-style23" Height="50px" Text="Save the Form" OnClick="Button2_Click" Width="200px" />
                             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                            <asp:Button ID="Button1" runat="server" CssClass="auto-style23" Height="54px" OnClientClick="window.close()" Text="Close the Form" Width="199px" />
+                            <asp:Button ID="Button1" runat="server" CssClass="auto-style23" Height="50px" OnClientClick="window.close()" Text="Close the Form" Width="200px" />
                             </strong>
                         </div>
                     </td>

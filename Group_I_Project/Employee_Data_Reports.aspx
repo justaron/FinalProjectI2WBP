@@ -110,7 +110,7 @@
                 </tr>
                 <tr>
                     <td class="auto-style4"><strong>
-                        <asp:Button ID="Button1" runat="server" CssClass="auto-style3" Height="46px" OnClientClick="window.close()" Text="Close the Report" Width="228px" />
+                        <asp:Button ID="Button1" runat="server" CssClass="auto-style3" Height="50px" OnClientClick="window.close()" Text="Close the Report" Width="200px" />
                         </strong></td>
                     <td>&nbsp;</td>
                 </tr>

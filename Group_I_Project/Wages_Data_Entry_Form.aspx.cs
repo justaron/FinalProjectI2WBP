@@ -20,11 +20,11 @@ namespace WebApplication1
             SqlDataSourceSAVEFORMWage.InsertParameters["Wage_Date"].DefaultValue = TextBox3.Text;
             SqlDataSourceSAVEFORMWage.InsertParameters["Wage_Amount"].DefaultValue = TextBox4.Text;
             SqlDataSourceSAVEFORMWage.InsertParameters["Wage_Commission"].DefaultValue = TextBox5.Text;
-
+            string text = DropDownList1.SelectedItem + "'s Salary is: " + TextBox4.Text + "TL";
             int s = SqlDataSourceSAVEFORMWage.Insert();
             if (s > 0)
             {
-                Label1.Text = "New Staff Information : <b>" + "</b><p> Successfully Added ";
+                Label1.Text = "New Staff Information : <b>" + text +"</b><p> Successfully Added ";
                 Label1.Visible = true;
             }
             else

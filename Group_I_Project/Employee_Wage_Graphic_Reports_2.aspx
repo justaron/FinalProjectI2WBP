@@ -52,7 +52,7 @@
             <tr>
                 <td> <strong>
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                    <asp:Button ID="Button1" runat="server" CssClass="auto-style3" Height="44px" OnClientClick="window.close()" Text="Close the Report" Width="206px" />
+                    <asp:Button ID="Button1" runat="server" CssClass="auto-style3" Height="50px" OnClientClick="window.close()" Text="Close the Report" Width="200px" />
                     </strong></td>
             </tr>
         </table>

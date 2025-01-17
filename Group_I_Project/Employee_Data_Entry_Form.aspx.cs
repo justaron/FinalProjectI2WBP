@@ -55,9 +55,10 @@ namespace WebApplication1
             }
             SqlDataSourceSAVEFORMEmployee.InsertParameters["Is_Empl_Active"].DefaultValue = d.ToString();
             int s = SqlDataSourceSAVEFORMEmployee.Insert();
+            string name = TextBox2.Text + " " +TextBox3.Text;
             if (s > 0)
             {
-                Label2.Text = "New Staff Information : <b>" + "</b><p> Successfully Added ";
+                Label2.Text = "New Staff Information : <b>" + name  + "</b><p> Successfully Added ";
                 Label2.Visible = true;
             }
             else

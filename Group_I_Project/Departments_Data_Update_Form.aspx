@@ -75,7 +75,7 @@
                 <tr>
                     <td class="auto-style6">&nbsp;</td>
                     <td>
-                        <asp:Button ID="Button2" runat="server" CssClass="auto-style5" Height="54px" OnClientClick="window.close()" Text="Close the Form" Width="176px" />
+                        <asp:Button ID="Button2" runat="server" CssClass="auto-style5" Height="50px" OnClientClick="window.close()" Text="Close the Form" Width="200px" />
                         </td>
                 </tr>
                 <tr>

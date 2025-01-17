@@ -20,11 +20,11 @@ namespace WebApplication1
             SqlDataSourceSAVEFORMUser.InsertParameters["User_FName"].DefaultValue = TextBox2.Text;
             SqlDataSourceSAVEFORMUser.InsertParameters["User_Psw"].DefaultValue = TextBox3.Text;
             SqlDataSourceSAVEFORMUser.InsertParameters["Role_ID"].DefaultValue = DropDownList1.SelectedValue;
-
+            string name = TextBox2.Text;
             int s = SqlDataSourceSAVEFORMUser.Insert();
             if (s > 0)
             {
-                Label1.Text = "New Staff Information : <b>" + TextBox2.Text + "</b><p> Successfully Added ";
+                Label1.Text = "New Staff Information : <b>" + name + "</b><p> Successfully Added ";
                 Label1.Visible = true;
             }
             else

@@ -44,12 +44,12 @@
                 <tr>
                     <td class="auto-style6">
                         <strong>
-                        <asp:Button ID="Button1" runat="server" OnClientClick="target='_blanck'" Text="Employee Data Reports" CssClass="auto-style7" Height="50px" PostBackUrl="~/Employee_Data_Reports.aspx" Width="350px" />
+                        <asp:Button ID="Button1" runat="server" OnClientClick="target='_blanck'" Text="Employee Data Reports" CssClass="auto-style7" Height="50px" PostBackUrl="~/Employee_Data_Reports.aspx" Width="500px" />
                         </strong>
                         <br />
                     </td>
                     <td class="auto-style6">
-                        <asp:Button ID="Button6" runat="server" CssClass="auto-style7" Font-Bold="True" Height="50px" PostBackUrl="~/Employees_By_Departments_Report.aspx" Text="Employees By Departments" Width="350px" />
+                        <asp:Button ID="Button6" runat="server" CssClass="auto-style7" Font-Bold="True" Height="50px" PostBackUrl="~/Employees_By_Departments_Report.aspx" Text="Employees By Departments" Width="500px" />
                     </td>
                 </tr>
                 <tr>
@@ -66,19 +66,19 @@
                 <tr>
                     <td class="auto-style16">
                         <strong>
-                        <asp:Button ID="Button3" runat="server" OnClientClick="target='_blanck'" Text="Departments Data Reports" CssClass="auto-style7" Height="50px" Width="350px" PostBackUrl="~/Departments_Data_Report.aspx" />
+                        <asp:Button ID="Button3" runat="server" OnClientClick="target='_blanck'" Text="Departments Data Reports" CssClass="auto-style7" Height="50px" Width="500px" PostBackUrl="~/Departments_Data_Report.aspx" />
                         </strong>
                         <br />
                     </td>
                     <td class="auto-style16">
                         <strong>
-                        <asp:Button ID="Button4" runat="server" OnClientClick="target='_blank'" Text="Users Data Reports" CssClass="auto-style7" Height="50px" Width="350px" PostBackUrl="~/Users_Data_Reports.aspx" />
+                        <asp:Button ID="Button4" runat="server" OnClientClick="target='_blank'" Text="Users Data Reports" CssClass="auto-style7" Height="50px" Width="500px" PostBackUrl="~/Users_Data_Reports.aspx" />
                         </strong>
                     </td>
                 </tr>
                 <tr>
                     <td class="auto-style15" colspan="2">
-                        <asp:Button ID="Button7" runat="server" CssClass="auto-style7" Height="75px" OnClientClick="window.close()" PostBackUrl="~/Default.aspx" Text="Home" Width="250px" />
+                        <asp:Button ID="Button7" runat="server" CssClass="auto-style7" Height="50px" PostBackUrl="~/Default.aspx" Text="Home" Width="500px" />
                         <br />
                     </td>
                 </tr>

@@ -64,7 +64,7 @@
             </tr>
             <tr>
                 <td class="auto-style4">
-                    <asp:Button ID="Button1" runat="server" CssClass="auto-style2" Font-Bold="True" OnClientClick="window.close()" Text="Close the Form" />
+                    <asp:Button ID="Button1" runat="server" CssClass="auto-style2" Font-Bold="True" OnClientClick="window.close()" Text="Close the Form" Height="50px" Width="250px" />
                 </td>
                 <td>&nbsp;</td>
             </tr>
